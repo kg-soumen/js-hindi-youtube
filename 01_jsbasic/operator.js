@@ -12,3 +12,11 @@
 
 
 // null and undefined should both not use//
+
+// integer  to String convert :
+/*
+let number = 123
+console.log(typeof number)
+let _number = String(number)
+console.log(typeof _number)
+*/
